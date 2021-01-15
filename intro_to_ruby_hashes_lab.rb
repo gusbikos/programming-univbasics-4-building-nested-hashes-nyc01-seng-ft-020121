@@ -12,9 +12,8 @@ def monopoly_with_second_tier
   # complexity.
   hash = {
     :railroads => {
-      :pieces => "4"
+      :pieces => 4
     }
-  }
 
 
 end
